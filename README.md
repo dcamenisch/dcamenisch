@@ -10,7 +10,7 @@
 
 ---
 
-<img align="left" alt="Danny's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DannyCamenisch&show_icons=true&hide_border=true&count_private=true">
+<img align="left" alt="Danny's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dcamenisch&show_icons=true&hide_border=true&count_private=true">
 
 
 
