@@ -1,4 +1,4 @@
-## Hi! 👋 I'm Danny, a CS Student from ETH Zurich 🇨🇭
+## Hi! I'm Danny, a CS Student from ETH Zurich 🇨🇭
 
 ###
 
